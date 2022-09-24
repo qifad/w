@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qifad.github.io</id>
+    <title>月镜mod</title>
+    <updated>2022-09-24T10:37:58.829Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://qifad.github.io"/>
+    <link rel="self" href="https://qifad.github.io/atom.xml"/>
+    <logo>https://qifad.github.io/images/avatar.png</logo>
+    <icon>https://qifad.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 月镜mod</rights>
+    <entry>
+        <title type="html"><![CDATA[下载链接]]></title>
+        <id>https://qifad.github.io/post/5avfIoJR1/</id>
+        <link href="https://qifad.github.io/post/5avfIoJR1/">
+        </link>
+        <updated>2022-09-24T09:06:41.000Z</updated>
+        <content type="html"><![CDATA[<p>目前只有<strong>qq群</strong>可以下：<br>
+<em>391527959</em></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://qifad.github.io/post/COx3FjH7F/</id>
+        <link href="https://qifad.github.io/post/COx3FjH7F/">
+        </link>
+        <updated>2022-09-24T08:57:29.000Z</updated>
+        <content type="html"><![CDATA[<p>这里就是月镜mod的官网力XD</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日志]]></title>
+        <id>https://qifad.github.io/post/rPjVG67GV/</id>
+        <link href="https://qifad.github.io/post/rPjVG67GV/">
+        </link>
+        <updated>2022-09-24T08:57:17.000Z</updated>
+        <content type="html"><![CDATA[<p>0.114514<br>
+这个版本已经是可玩的版本  ~~就是有点臭（悲 ~~</p>
+]]></content>
+    </entry>
+</feed>
